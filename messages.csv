@@ -1,0 +1,41 @@
+id,timestamp,source,text,location,program,project_id
+1,2025-09-15T07:45:00Z,Twitter,"Morning commute was surprisingly smooth today, the new bus lane really helps.",Downtown,Transit Upgrade,P001-Transit
+2,2025-09-15T09:10:00Z,Forum,"Even with the new buses, the schedule is unreliable and people are still waiting in the heat.",Downtown,Transit Upgrade,P001-Transit
+3,2025-09-15T12:30:00Z,Survey,"Residents report moderate satisfaction with public transport but complain about crowding at peak hours.",Citywide,Transit Upgrade,P001-Transit
+4,2025-09-15T18:05:00Z,Twitter,"Just saw the renovated park by the river – more trees, more shade, and kids everywhere. Feels great.",Riverfront,Green Public Spaces,P002-Parks
+5,2025-09-16T08:20:00Z,Email,"Local partners are requesting clearer indicators on how climate funds are being used in vulnerable neighborhoods.",Citywide,Climate Governance,P003-ClimateGov
+6,2025-09-16T11:55:00Z,News,"City officials admit that drainage upgrades are behind schedule ahead of the upcoming rainy season.",Floodplain District,Drainage Upgrade,P004-Drainage
+7,2025-09-16T19:40:00Z,Blog,"Flooding used to hit my street every year, but after the green infrastructure pilot, water drains much faster.",Floodplain District,Drainage Upgrade,P004-Drainage
+8,2025-09-17T06:50:00Z,Twitter,"Power outage again at 6 a.m. This is the third time this month. Totally unacceptable.",Outer Neighborhoods,Power Reliability,P005-Power
+9,2025-09-17T13:15:00Z,Forum,"Some users say the new mobile app for reporting outages is useful, but many have no idea it exists.",Citywide,Power Reliability,P005-Power
+10,2025-09-17T21:05:00Z,Twitter,"Impressed by how quickly the hotline responded to last night’s outage, way better than last year.",Citywide,Power Reliability,P005-Power
+11,2025-09-18T09:25:00Z,Survey,"Businesses cite unreliable electricity and slow permits as major barriers to investment in the city center.",City Center,Investment Climate,P006-BusinessEnv
+12,2025-09-18T15:40:00Z,News,"A new coastal erosion study shows that informal settlements near the shoreline face the highest risk.",Coastal Zone,Coastal Protection,P007-Coast
+13,2025-09-18T18:55:00Z,Twitter,"Community meeting on coastal protection was packed. People are worried but also eager to help restore mangroves.",Coastal Zone,Coastal Protection,P007-Coast
+14,2025-09-19T07:30:00Z,Blog,"Young volunteers are organizing monthly river cleanups; the water still looks dirty, but participation keeps growing.",Riverfront,Community Engagement,P008-Engagement
+15,2025-09-19T10:10:00Z,Twitter,"Honestly, the river still smells awful. I don’t see the impact of all these cleanup campaigns.",Riverfront,Community Engagement,P008-Engagement
+16,2025-09-19T16:45:00Z,Forum,"Several residents say they feel safer after new streetlights were installed near the market.",Market District,Urban Safety,P009-Safety
+17,2025-09-20T08:05:00Z,Twitter,"Streetlights in my neighborhood are broken again, walking home at night feels unsafe.",Outer Neighborhoods,Urban Safety,P009-Safety
+18,2025-09-20T14:20:00Z,Survey,"Respondents rank personal safety as improving downtown but still weak in peripheral areas.",City Center,Urban Safety,P009-Safety
+19,2025-09-21T09:00:00Z,Email,"Stakeholders ask whether the early warning system can send alerts in local languages, not just English.",Coastal Zone,Early Warning System,P010-EWS
+20,2025-09-21T19:30:00Z,News,"Pilot early warning messages were successfully sent before last week’s storm, reducing traffic accidents.",Citywide,Early Warning System,P010-EWS
+21,2025-09-22T07:55:00Z,Twitter,"Got a flood alert on my phone this morning and it was spot on. Finally, technology that actually helps.",Citywide,Early Warning System,P010-EWS
+22,2025-09-22T12:10:00Z,Forum,"Some people say they never receive alerts because they changed numbers or live outside the official coverage zone.",Outer Neighborhoods,Early Warning System,P010-EWS
+23,2025-09-23T08:40:00Z,Blog,"Digital skills training for women is slowly changing the job market; several trainees just started internships.",City Center,Digital Skills,P011-DigiSkills
+24,2025-09-23T17:05:00Z,Twitter,"The digital skills course was too basic for me, but it seemed helpful for older participants.",City Center,Digital Skills,P011-DigiSkills
+25,2025-09-24T06:35:00Z,News,"New data show that heat waves are becoming more frequent, hitting informal workers and street vendors hardest.",Citywide,Heat Action Plan,P012-Heat
+26,2025-09-24T13:50:00Z,Survey,"Street vendors report lost income on extreme heat days and request shaded rest areas and water points.",Market District,Heat Action Plan,P012-Heat
+27,2025-09-24T20:25:00Z,Twitter,"Grateful for the new shaded seating near the bus stop, makes waiting in the afternoon heat bearable.",Market District,Heat Action Plan,P012-Heat
+28,2025-09-25T08:15:00Z,Forum,"People still complain that there are not enough shaded areas in markets and schools.",Market District,Heat Action Plan,P012-Heat
+29,2025-09-25T11:30:00Z,Email,"Project team wants to track sentiment about the new heat action plan across social media channels.",Citywide,Heat Action Plan,P012-Heat
+30,2025-09-25T18:10:00Z,Twitter,"I like the SMS tips on staying safe during heat waves, but they come too late in the day.",Citywide,Heat Action Plan,P012-Heat
+31,2025-09-26T07:20:00Z,Blog,"Bike lanes are gradually expanding, but connectivity is poor and cyclists struggle at major intersections.",Citywide,Bike Network,P013-Bike
+32,2025-09-26T12:45:00Z,Twitter,"Riding the new riverfront bike path this morning was amazing, finally a safe route to work.",Riverfront,Bike Network,P013-Bike
+33,2025-09-26T21:00:00Z,Forum,"Drivers complain that the bike lanes reduced parking space, especially near shops.",City Center,Bike Network,P013-Bike
+34,2025-09-27T09:05:00Z,News,"Local government approved an additional budget for climate-resilient housing upgrades in low-income areas.",Inner Suburbs,Housing Resilience,P014-Housing
+35,2025-09-27T15:30:00Z,Survey,"Households in upgraded buildings report fewer leaks and cooler indoor temperatures during heat waves.",Inner Suburbs,Housing Resilience,P014-Housing
+36,2025-09-28T08:55:00Z,Twitter,"Rent keeps going up after the renovations; I’m not sure I’ll be able to stay in this neighborhood.",Inner Suburbs,Housing Resilience,P014-Housing
+37,2025-09-28T14:40:00Z,Forum,"Several users argue that climate investments must include rent controls or they will push poor tenants out.",Citywide,Housing Resilience,P014-Housing
+38,2025-09-29T10:20:00Z,Email,"Partners request a dashboard showing trends in public sentiment, service reliability, and safety perceptions.",Citywide,Monitoring and Evaluation,P015-MEL
+39,2025-09-29T17:15:00Z,Twitter,"Just finished a community workshop on disaster preparedness – lots of questions, but people seemed engaged.",Coastal Zone,Disaster Preparedness,P016-DRM
+40,2025-09-30T08:05:00Z,News,"Preliminary evaluation suggests that early-warning messages and community drills reduced storm-related injuries this month.",Citywide,Disaster Preparedness,P016-DRM
